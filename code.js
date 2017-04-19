@@ -88,9 +88,6 @@ function start()
             element.style.borderLeft = "none";
         }
     }
-    
-    
-    
 }
 
 window.onload = start;
